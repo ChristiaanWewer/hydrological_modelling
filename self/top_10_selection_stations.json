@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "stations": "1159548_Q_Day.Cmd.txt", "lats": -26.64428, "lons": 27.09033, "start": "1904-08", "end": "2020-08", "datapoints": 41886, "continuous datapoints": 21105 }, "geometry": { "type": "Point", "coordinates": [ 27.09033, -26.64428 ] } },
+{ "type": "Feature", "properties": { "stations": "1159110_Q_Day.Cmd.txt", "lats": -31.806667, "lons": 20.357778, "start": "1927-10", "end": "2020-09", "datapoints": 33832, "continuous datapoints": 20737 }, "geometry": { "type": "Point", "coordinates": [ 20.357778, -31.806667 ] } },
+{ "type": "Feature", "properties": { "stations": "1258202_Q_Day.Cmd.txt", "lats": -20.2, "lons": 16.13333333, "start": "1961-03", "end": "2018-11", "datapoints": 21039, "continuous datapoints": 19266 }, "geometry": { "type": "Point", "coordinates": [ 16.13333333, -20.2 ] } },
+{ "type": "Feature", "properties": { "stations": "1196180_Q_Day.Cmd.txt", "lats": -25.035833, "lons": 30.219167, "start": "1960-09", "end": "2020-10", "datapoints": 21936, "continuous datapoints": 19146 }, "geometry": { "type": "Point", "coordinates": [ 30.219167, -25.035833 ] } },
+{ "type": "Feature", "properties": { "stations": "1258300_Q_Day.Cmd.txt", "lats": -21.43333333, "lons": 15.66666667, "start": "1967-10", "end": "2018-11", "datapoints": 18641, "continuous datapoints": 18641 }, "geometry": { "type": "Point", "coordinates": [ 15.66666667, -21.43333333 ] } },
+{ "type": "Feature", "properties": { "stations": "1160710_Q_Day.Cmd.txt", "lats": -29.4425, "lons": 30.148333, "start": "1954-07", "end": "2020-10", "datapoints": 24094, "continuous datapoints": 18391 }, "geometry": { "type": "Point", "coordinates": [ 30.148333, -29.4425 ] } },
+{ "type": "Feature", "properties": { "stations": "1160660_Q_Day.Cmd.txt", "lats": -32.801667, "lons": 27.855278, "start": "1972-04", "end": "2020-10", "datapoints": 17719, "continuous datapoints": 17719 }, "geometry": { "type": "Point", "coordinates": [ 27.855278, -32.801667 ] } },
+{ "type": "Feature", "properties": { "stations": "1159400_Q_Day.Cmd.txt", "lats": -27.573333, "lons": 24.745833, "start": "1923-10", "end": "2020-09", "datapoints": 34738, "continuous datapoints": 17650 }, "geometry": { "type": "Point", "coordinates": [ 24.745833, -27.573333 ] } },
+{ "type": "Feature", "properties": { "stations": "1160720_Q_Day.Cmd.txt", "lats": -29.5125, "lons": 30.094167, "start": "1960-08", "end": "2020-10", "datapoints": 21710, "continuous datapoints": 16395 }, "geometry": { "type": "Point", "coordinates": [ 30.094167, -29.5125 ] } },
+{ "type": "Feature", "properties": { "stations": "1196350_Q_Day.Cmd.txt", "lats": -25.776944, "lons": 27.761111, "start": "1922-10", "end": "2020-08", "datapoints": 35239, "continuous datapoints": 14061 }, "geometry": { "type": "Point", "coordinates": [ 27.761111, -25.776944 ] } }
+]
+}
